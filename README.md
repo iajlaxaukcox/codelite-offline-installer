@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-IDE-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-C/C+++IDE-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 CodeLite Free Installer** — CodeLite is a free, open-source, cross-platform C, C++, PHP, and Node.js IDE. Works without internet access, no account required. Full offline installation.
+**💻 CodeLite Free Installer** — CodeLite is a free, open-source C, C++, PHP, and JavaScript IDE for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About CodeLite
 
-CodeLite is a free, open-source, cross-platform C, C++, PHP, and Node.js IDE. Lightweight compared to Eclipse or Visual Studio, it provides syntax highlighting, code completion, debugging, and an integrated terminal for efficient development.
+CodeLite is a free, open-source C, C++, PHP, and JavaScript IDE for Windows, macOS, and Linux. Features include smart completion, integrated debugger, Git support, a plugin system, and a remote development mode over SSH. CodeLite's lightweight design compared to Eclipse or VS makes it a good choice for developers who want a capable open-source IDE without heavy resource demands.
 
 ---
 
 ## ❌ Problem: CodeLite is hard to access
 
-- **Limited Language Support** — Best for C/C++ and PHP; other language support more basic
-- **Smaller Community** — Fewer plugins and tutorials than VS Code or Eclipse
-- **Dated Interface** — Visual design less modern than contemporary IDEs
-- **Development Pace** — Updates arrive less frequently than mainstream IDEs
+- **Community Size** — Much smaller user base than major IDEs
+- **Plugin Ecosystem** — Limited plugin selection compared to mainstream IDEs
+- **Documentation** — Less comprehensive documentation than commercial alternatives
+- **Modern C++ Intelligence** — Code analysis less sophisticated than CLion
 
 ---
 
@@ -121,7 +121,7 @@ CodeLite is a free, open-source, cross-platform C, C++, PHP, and Node.js IDE. Li
 
 ---
 
-**CodeLite Free Installer** — CodeLite is a free, open-source, cross-platform C, C++, PHP, and Node.js IDE. Install without internet connection today!
+**CodeLite Free Installer** — CodeLite is a free, open-source C, C++, PHP, and JavaScript IDE for Windows, macOS, and Linux. Install without internet connection today!
 
 <div align="center">
 
